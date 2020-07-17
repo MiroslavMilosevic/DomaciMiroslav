@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+background-color: antiquewhite;
+height: 15vh;
+}
+main{
+background-color: aquamarine;
+height: 70vh;
+}
+footer{
+background-color: darkolivegreen;
+height: 15vh;
+}
