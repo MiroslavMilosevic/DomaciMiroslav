@@ -143,11 +143,7 @@ function proveraPodataka(Opis,Iznos){
         
              for(let i=0;i<nizRashoda.length;i++){
                 let procenatZaTabele=Math.floor((-nizRashoda[i].Iznos/ukupniPrihodi2)*100);
-                // console.log('typeof iznos '+typeof -nizRashoda[i].Iznos);
-                // console.log('iznos vrednost '+ nizRashoda[i].Iznos);
-                // console.log(ukupniPrihodi+'  ukupniPrihodi vrednost');
-                // console.log('ukupni prihodi222 typeof '+typeof ukupniPrihodi2);
-                // console.log('nizRashoda/ukupniPrihodi '+nizRashoda[i].Iznos/ukupniPrihodi);
+                
                 if(procenatZaTabele==Infinity||isNaN(procenatZaTabele)){
                     procenatZaTabele=0;
                 }
