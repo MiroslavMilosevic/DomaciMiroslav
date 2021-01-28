@@ -1,2 +1,2 @@
 # DomaciMiroslav
-ovde se nalaze domaci po nedeljama
+Domaci zadaci odradjeni izmedju jula i septembra 2020 dok sam slusao predavanja ITBootCampa
